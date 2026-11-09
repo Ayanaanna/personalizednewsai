@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+chromadb
+sentence-transformers
+torch
+google-genai
+langgraph
